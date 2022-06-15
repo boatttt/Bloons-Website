@@ -1,0 +1,23 @@
+#navbar_logo {
+	height: 40px;
+}
+
+.col {
+	border: solid black lpx;
+}
+
+.footer {
+	background-color: rgba(52, 149, 228, 0.731);
+	border-radius: 5px;
+	padding-bottom: 5px;
+}
+
+body {
+	background-color: black;
+	padding: 10px;
+}
+
+.row {
+	margin: 0px;
+}
+	
