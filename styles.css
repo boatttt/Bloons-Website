@@ -36,6 +36,22 @@ body {
 	margin: 20px;
 }
 
+#container {
+	overflow: hidden;
+	width: 2000px;
+}
+
+  #inner {
+	overflow: hidden;
+	width: 2000px;
+}
+
+.item {
+	float: left;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin: 5px;
+}
+
 .center {
 	display: block;
 	margin-left: auto;
